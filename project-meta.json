@@ -1,0 +1,13 @@
+{
+  "curso": "Nome do Curso",
+  "disciplina": "Orientacao a Objetos",
+  "tema_escolhido": "1 - Sistema de Gestao de uma ONG de Adocao de Pets",
+  "linguagem": "Java",
+  "gerenciador_dependencias": "Maven",
+  "integrantes": [
+    {
+      "nome": "Kayo",
+      "github_username": "kayow"
+    }
+  ]
+}
